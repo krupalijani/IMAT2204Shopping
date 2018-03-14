@@ -40,3 +40,10 @@ C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\clsproduct
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\ProductTesting.csprojResolveAssemblyReference.cache
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\tstproduct.dll
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\tstproduct.pdb
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\tstproduct.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\tstproduct.pdb
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\clsproduct.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\clsproduct.pdb
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\ProductTesting.csprojResolveAssemblyReference.cache
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\tstproduct.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\tstproduct.pdb
