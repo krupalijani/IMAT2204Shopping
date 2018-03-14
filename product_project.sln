@@ -22,6 +22,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product", "product", "{3133
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer Tests", "tstCustomer\Customer Tests.csproj", "{D78C301D-BE92-46FC-ABB0-D200A538EAA2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "customer", "customer", "{08DD7841-943D-4D49-BDF3-EE3040E51327}"
+	ProjectSection(SolutionItems) = preProject
+		H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx = H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx
+		H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx.cs
+		H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx = H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx
+		H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx.cs
+		H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx = H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx
+		H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx.cs
+		H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx = H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx
+		H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

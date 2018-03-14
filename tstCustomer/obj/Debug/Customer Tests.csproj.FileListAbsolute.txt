@@ -6,3 +6,9 @@
 \\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\Customer Tests.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.dll
 \\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.pdb
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\tstCustomer.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\tstCustomer.pdb
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\Customer Tests.csprojResolveAssemblyReference.cache
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\tstCustomer.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\tstCustomer.pdb
