@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.pdb
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.pdb
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\Customer Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.pdb

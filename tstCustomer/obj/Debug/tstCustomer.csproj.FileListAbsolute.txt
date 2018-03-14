@@ -1,0 +1,24 @@
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.dll
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.pdb
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.dll
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.pdb
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.dll
+h:\documents\visual studio 2015\Projects\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.pdb
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.pdb
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.pdb
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.dll
+\\Mac\Home\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.pdb
+H:\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.csprojResolveAssemblyReference.cache
+H:\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.dll
+H:\Desktop\ClassLibrary\tstCustomer\obj\Debug\tstCustomer.pdb
+H:\Desktop\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.dll
+H:\Desktop\ClassLibrary\tstCustomer\bin\Debug\tstCustomer.pdb
+H:\Desktop\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.dll
+H:\Desktop\ClassLibrary\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\ClassLibrary\tstCustomer\bin\Debug\clsCustomerLibrary.pdb

@@ -20,7 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product", "product", "{3133
 		..\..\..\..\Product\Web.config = ..\..\..\..\Product\Web.config
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer Tests", "..\uni-assessments\tstCustomer\Customer Tests.csproj", "{D78C301D-BE92-46FC-ABB0-D200A538EAA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer Tests", "tstCustomer\Customer Tests.csproj", "{D78C301D-BE92-46FC-ABB0-D200A538EAA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
