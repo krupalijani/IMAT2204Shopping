@@ -1,0 +1,7 @@
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\bin\Debug\tstproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\bin\Debug\tstproduct.pdb
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\bin\Debug\clsproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\bin\Debug\clsproduct.pdb
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\obj\Debug\tstproduct.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\obj\Debug\tstproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\tstproduct\obj\Debug\tstproduct.pdb

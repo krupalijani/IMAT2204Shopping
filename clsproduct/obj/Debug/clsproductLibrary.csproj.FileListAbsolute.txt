@@ -1,0 +1,5 @@
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\bin\Debug\clsproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\bin\Debug\clsproduct.pdb
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\obj\Debug\clsproductLibrary.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\obj\Debug\clsproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\obj\Debug\clsproduct.pdb

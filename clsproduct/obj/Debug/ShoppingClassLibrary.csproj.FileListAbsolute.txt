@@ -1,0 +1,25 @@
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\bin\Debug\clsproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\bin\Debug\clsproduct.pdb
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\obj\Debug\clsproduct.dll
+h:\documents\visual studio 2015\Projects\product_project\clsproduct\obj\Debug\clsproduct.pdb
+H:\Documents\Visual Studio 2015\Projects\product_project\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
+D:\product_project\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
+D:\product_project\clsproduct\obj\Debug\clsproduct.dll
+D:\product_project\clsproduct\obj\Debug\clsproduct.pdb
+D:\product_project\clsproduct\bin\Debug\clsproduct.dll
+D:\product_project\clsproduct\bin\Debug\clsproduct.pdb
+H:\Desktop\New WinRAR archive\product_project\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
+H:\Desktop\New WinRAR archive\product_project\clsproduct\obj\Debug\clsproduct.dll
+H:\Desktop\New WinRAR archive\product_project\clsproduct\obj\Debug\clsproduct.pdb
+H:\Desktop\New WinRAR archive\product_project\clsproduct\bin\Debug\clsproduct.dll
+H:\Desktop\New WinRAR archive\product_project\clsproduct\bin\Debug\clsproduct.pdb
+C:\Users\KRUPALI\Desktop\PRoduct\product\product_project\clsproduct\bin\Debug\clsproduct.dll
+C:\Users\KRUPALI\Desktop\PRoduct\product\product_project\clsproduct\bin\Debug\clsproduct.pdb
+C:\Users\KRUPALI\Desktop\PRoduct\product\product_project\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\KRUPALI\Desktop\PRoduct\product\product_project\clsproduct\obj\Debug\clsproduct.dll
+C:\Users\KRUPALI\Desktop\PRoduct\product\product_project\clsproduct\obj\Debug\clsproduct.pdb
+C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\bin\Debug\clsproduct.dll
+C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\bin\Debug\clsproduct.pdb
+C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\obj\Debug\clsproduct.dll
+C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\obj\Debug\clsproduct.pdb
