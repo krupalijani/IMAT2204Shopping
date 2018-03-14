@@ -33,3 +33,10 @@ C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\tstproduct\bin\Debug\
 C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\tstproduct\obj\Debug\ProductTesting.csprojResolveAssemblyReference.cache
 C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\tstproduct\obj\Debug\tstproduct.dll
 C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\tstproduct\obj\Debug\tstproduct.pdb
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\tstproduct.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\tstproduct.pdb
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\clsproduct.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\bin\Debug\clsproduct.pdb
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\ProductTesting.csprojResolveAssemblyReference.cache
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\tstproduct.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstproduct\obj\Debug\tstproduct.pdb
