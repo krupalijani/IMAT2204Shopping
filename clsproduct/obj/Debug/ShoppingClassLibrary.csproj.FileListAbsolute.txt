@@ -30,6 +30,5 @@ C:\Users\p16223827\Source\Repos\IMAT2204Shopping\clsproduct\bin\Debug\clsproduct
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\clsproduct\bin\Debug\clsproduct.pdb
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\clsproduct\bin\Debug\clsproduct.dll
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\clsproduct\bin\Debug\clsproduct.pdb
-C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\clsproduct\obj\Debug\clsproduct.dll
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\clsproduct\obj\Debug\clsproduct.pdb
