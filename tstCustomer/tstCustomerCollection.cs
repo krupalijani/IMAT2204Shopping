@@ -116,8 +116,8 @@ namespace tstCustomerCollection
             TestItem.CustomerID = 1;
             TestItem.DOB = DateTime.Now.AddYears(-19);
             TestItem.EmailAddress = "abc@123.com";
-            TestItem.HomeAddress = "2 Leicester square";
             TestItem.FirstName = "John";
+            TestItem.HomeAddress = "95 New station road";
             TestItem.Gender = "Male";
             TestItem.LastName = "James";
             TestItem.PhoneNo = "01234567891";

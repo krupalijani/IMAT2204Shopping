@@ -77,11 +77,8 @@
             <div>
                 <p>
         <asp:Label ID="lblgender" runat="server" Text="Gender"></asp:Label>
-            <asp:radiobuttonlist id="rgender"   runat="server"  style="margin-left:100px" repeatDirection="Horizontal"  >
-       <asp:listitem Value="a">Female</asp:listitem>
-       <asp:listitem Value="b">Male</asp:listitem>
-                <asp:ListItem Value ="c">Others</asp:ListItem>
-</asp:radiobuttonlist>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:TextBox ID="txtGender" runat="server"></asp:TextBox>
             
             <asp:RequiredFieldValidator ID="RequiredFieldValidator8" runat="server" ControlToValidate="rgender" ErrorMessage ="*" ForeColor="Red"></asp:RequiredFieldValidator>
              </p>

@@ -23,7 +23,6 @@ C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\bin\Debug\
 C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
 C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\obj\Debug\clsproduct.dll
 C:\Users\KRUPALI\Desktop\p\PRoduct\product\product_project\clsproduct\obj\Debug\clsproduct.pdb
-C:\Users\p16223827\Source\Repos\IMAT2204Shopping\clsproduct\obj\Debug\ShoppingClassLibrary.csprojResolveAssemblyReference.cache
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\clsproduct\obj\Debug\clsproduct.dll
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\clsproduct\obj\Debug\clsproduct.pdb
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\clsproduct\bin\Debug\clsproduct.dll

@@ -5,6 +5,7 @@ using System.Text;
 
 
 
+
 namespace Class_Library
 {
     public class clsCustomer
@@ -29,6 +30,7 @@ namespace Class_Library
         private Boolean mActive;
         //private data member for the PostCode property
         private string mPostCode;
+        
 
         public bool Active
         {

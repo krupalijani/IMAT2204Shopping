@@ -25,6 +25,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IMAT2204Shopping", ".", "{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{319b3dbe-85ac-4069-ac8a-f4437798ef91}|clsproduct.dll;{3ebfbb05-80eb-43ab-9622-c76a1cdfb7e5}|tstproduct.dll;{d78c301d-be92-46fc-abb0-d200a538eaa2}|tstCustomer.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51117"
 		Debug.AspNetCompiler.PhysicalPath = "..\IMAT2204Shopping\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51117\"
