@@ -22,18 +22,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product", "product", "{3133
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer Tests", "tstCustomer\Customer Tests.csproj", "{D78C301D-BE92-46FC-ABB0-D200A538EAA2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "customer", "customer", "{08DD7841-943D-4D49-BDF3-EE3040E51327}"
-	ProjectSection(SolutionItems) = preProject
-		H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx = H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx
-		H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\addcustomer.aspx.cs
-		H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx = H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx
-		H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\editprofile.aspx.cs
-		H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx = H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx
-		H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\managecustomer.aspx.cs
-		H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx = H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx
-		H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx.cs
-	EndProjectSection
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IMAT2204Shopping", ".", "{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
