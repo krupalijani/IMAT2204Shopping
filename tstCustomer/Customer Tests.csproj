@@ -52,11 +52,16 @@
   <ItemGroup>
     <Compile Include="tstCustomer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tstCustomerCollection.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\clsCustomerLibrary\clsCustomerLibrary.csproj">
       <Project>{02159F20-ECED-41B0-9E86-09704C680605}</Project>
       <Name>clsCustomerLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\clsproduct\ShoppingClassLibrary.csproj">
+      <Project>{319b3dbe-85ac-4069-ac8a-f4437798ef91}</Project>
+      <Name>ShoppingClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

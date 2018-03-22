@@ -34,6 +34,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "customer", "customer", "{08
 		H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx.cs = H:\Desktop\Project Management\onlineshopping1\customer\viewcustomer.aspx.cs
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IMAT2204Shopping", ".", "{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51117"
+		Debug.AspNetCompiler.PhysicalPath = "..\IMAT2204Shopping\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51117\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51117"
+		Release.AspNetCompiler.PhysicalPath = "..\IMAT2204Shopping\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51117\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51117"
+		SlnRelativePath = "..\IMAT2204Shopping\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +73,10 @@ Global
 		{D78C301D-BE92-46FC-ABB0-D200A538EAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D78C301D-BE92-46FC-ABB0-D200A538EAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D78C301D-BE92-46FC-ABB0-D200A538EAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6287AE8-CB7D-42E4-8D82-EA196ABB12D8}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

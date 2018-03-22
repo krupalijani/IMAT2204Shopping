@@ -12,3 +12,11 @@ C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\Microsoft
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\Customer Tests.csprojResolveAssemblyReference.cache
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\tstCustomer.dll
 C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\tstCustomer.pdb
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\Customer Tests.csprojResolveAssemblyReference.cache
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\tstCustomer.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\obj\Debug\tstCustomer.pdb
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\tstCustomer.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\tstCustomer.pdb
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\clsproduct.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\clsproduct.pdb
