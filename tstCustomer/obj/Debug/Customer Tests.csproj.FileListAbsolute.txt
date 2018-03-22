@@ -20,3 +20,5 @@ C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\tstCust
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\clsproduct.dll
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\ighoakponah\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\clsproduct.pdb
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\clsproduct.dll
+C:\Users\p16223827\Source\Repos\IMAT2204Shopping\tstCustomer\bin\Debug\clsproduct.pdb
