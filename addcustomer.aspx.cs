@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using Class_Library;
+using System.Data;
 
 public partial class addcustomer : System.Web.UI.Page
 {
@@ -32,7 +33,7 @@ public partial class addcustomer : System.Web.UI.Page
         //create an instance of the customer class
         clsCustomer AllCustomer = new clsCustomer();
         //find the record we want to display
-        AllCustomer.ThisCustomer.Find(CustomerID);
+        AllCustomer.Find(CustomerID);
         //display the customer FirstName
         txtfname.Text = AllCustomer.FirstName;
         //display the customer LastName
