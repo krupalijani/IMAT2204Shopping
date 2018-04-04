@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using Class_Library;
-using clsCustomerLibrary;
+
 
 namespace tstCustomerCollection
 {

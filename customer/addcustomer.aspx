@@ -77,13 +77,10 @@
             <div>
                 <p>
         <asp:Label ID="lblgender" runat="server" Text="Gender"></asp:Label>
-            <asp:radiobuttonlist id="rgender"   runat="server"  style="margin-left:100px" repeatDirection="Horizontal"  >
-       <asp:listitem Value="a">Female</asp:listitem>
-       <asp:listitem Value="b">Male</asp:listitem>
-                <asp:ListItem Value ="c">Others</asp:ListItem>
-</asp:radiobuttonlist>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:TextBox ID="txtGender" runat="server"></asp:TextBox>
             
-            <asp:RequiredFieldValidator ID="RequiredFieldValidator8" runat="server" ControlToValidate="rgender" ErrorMessage ="*" ForeColor="Red"></asp:RequiredFieldValidator>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator8" runat="server" ControlToValidate="txtGender" ErrorMessage ="*" ForeColor="Red"></asp:RequiredFieldValidator>
              </p>
                 </div>
            
@@ -91,9 +88,9 @@
         
          <div>
              <p>
-        <asp:Label ID="lbluname" runat="server" Text="username"></asp:Label>
-        <asp:TextBox ID="txtuname" runat="server" style="margin-left:101px"></asp:TextBox>
-            <asp:RequiredFieldValidator ID="RequiredFieldValidator9" runat="server" ControlToValidate="txtuname" ErrorMessage="*"  ForeColor="Red"></asp:RequiredFieldValidator>
+        <asp:Label ID="lblPcode" runat="server" Text="Post Code"></asp:Label>
+        <asp:TextBox ID="txtPcode" runat="server" style="margin-left:101px"></asp:TextBox>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator9" runat="server" ControlToValidate="txtPcode" ErrorMessage="*"  ForeColor="Red"></asp:RequiredFieldValidator>
               </p>
                  </div>
              
@@ -101,23 +98,14 @@
 
          <div>
              <p>
-        <asp:Label ID="lblpassword" runat="server" Text="Password"></asp:Label>
-        <asp:TextBox ID="txtpass" runat="server" TextMode="Password" style="margin-left:98px"></asp:TextBox>
-             <asp:RequiredFieldValidator ID="RequiredFieldValidator10" runat="server" ControlToValidate="txtpass" ErrorMessage="*"  ForeColor="Red"></asp:RequiredFieldValidator>
-             </p>
+                 &nbsp;</p>
                  </div> 
             
         
               <div>
-                  <p>
-        <asp:Label ID="lblcpassword" runat="server" Text="Confirm password"></asp:Label>
-        <asp:TextBox ID="txtcpass" runat="server" TextMode="Password" style="margin-left:46px"></asp:TextBox>
-                  <asp:RequiredFieldValidator ID="RequiredFieldValidator11" runat="server" ControlToValidate="txtcpass" ErrorMessage="*"  ForeColor="Red"></asp:RequiredFieldValidator>
-          <asp:CompareValidator id="Compare1" ControlToValidate="txtpass" ControlToCompare="txtcpass" Type="String" ErrorMessage ="Password does not match"  ForeColor="Red" runat="server"/>
-              </p>
                       </div>
     
-        <asp:Button ID="btnsubmit" runat="server" Text="Submit"  />
+        <asp:Button ID="btnAddCustomer" runat="server" Text="Add Customer"  />
         <asp:Button ID="btncancel" runat="server" Text="Cancel" />
         <br />
         <br />

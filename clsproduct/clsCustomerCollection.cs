@@ -1,11 +1,11 @@
 ﻿using System;
-//using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Class_Library;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 
 
-namespace clsCustomerLibrary
+namespace Class_Library
 {
     
     public class clsCustomerCollection
